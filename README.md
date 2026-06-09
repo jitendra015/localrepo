@@ -1,6 +1,14 @@
 # Local Repo
 
-A simple static website starter built with HTML and CSS.
+A simple static website by Jitendra Yadav.
+
+## Repository
+
+GitHub: https://github.com/jitendra015/localrepo
+
+## Author
+
+Jitendra Yadav (`jitendra015`)
 
 ## Files
 
